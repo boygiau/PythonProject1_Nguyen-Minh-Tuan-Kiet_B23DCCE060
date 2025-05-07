@@ -150,4 +150,5 @@ explained_variance = pca.explained_variance_ratio_
 print(f"Phương sai được giải thích bởi PC1: {explained_variance[0]:.2%}")
 print(f"Phương sai được giải thích bởi PC2: {explained_variance[1]:.2%}")
 print(f"Tổng phương sai được giải thích bởi 2 PCs: {explained_variance.sum():.2%}")
+
 print("\n--- Kết thúc ---")
