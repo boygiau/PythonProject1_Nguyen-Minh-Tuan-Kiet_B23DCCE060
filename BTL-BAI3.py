@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 try:
-    df = pd.read_csv('result.csv')
+    df = pd.read_csv('results.csv')
     print(f"Đã tải thành công file result.csv. Kích thước: {df.shape}")
 except FileNotFoundError:
     print("Lỗi: Không tìm thấy file 'result.csv'.")
