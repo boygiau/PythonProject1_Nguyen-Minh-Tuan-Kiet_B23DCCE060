@@ -1,0 +1,8 @@
+Based on the average statistics per team:
+- 'Liverpool' leads 23 'higher-is-better' stats.
+- 'Manchester City' leads 2 'lower-is-better' stats.
+- Offensive Leaders (top teams by # of led stats): Brentford, Everton, Liverpool
+- Defensive Leaders: Bournemouth, Brentford, Manchester City
+- Possession Leaders: Brentford, Liverpool, Manchester City
+
+Disclaimer: This analysis is based solely on average player statistics per team derived from the input data...

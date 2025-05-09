@@ -1,0 +1,913 @@
+Top and Bottom 3 Players per Statistic
+=======================================
+
+--- Defensive_Actions_Blocks_Blocks ---
+Top 3:
+  - Nathan Collins: 69.00
+  - Murillo: 66.00
+  - Tyrick Mitchell: 62.00
+
+Bottom 3:
+  - Aaron Ramsdale: 0.00
+  - Ali Al Hamadi: 0.00
+  - Alisson: 0.00
+
+---------------------------------------
+
+--- Defensive_Actions_Blocks_Int ---
+Top 3:
+  - Aaron Wan-Bissaka: 59.00
+  - Antonee Robinson: 57.00
+  - Ryan Gravenberch: 57.00
+
+Bottom 3:
+  - Mads Hermansen: 0.00
+  - Mark Flekken: 0.00
+  - Łukasz Fabiański: 0.00
+
+---------------------------------------
+
+--- Defensive_Actions_Blocks_Pass ---
+Top 3:
+  - Alexis Mac Allister: 54.00
+  - Antoine Semenyo: 51.00
+  - Tyrick Mitchell: 50.00
+
+Bottom 3:
+  - Aaron Ramsdale: 0.00
+  - Ali Al Hamadi: 0.00
+  - William Osula: 0.00
+
+---------------------------------------
+
+--- Defensive_Actions_Blocks_Sh ---
+Top 3:
+  - Nathan Collins: 49.00
+  - Dara O'Shea: 47.00
+  - Murillo: 43.00
+
+Bottom 3:
+  - Łukasz Fabiański: 0.00
+  - Aaron Ramsdale: 0.00
+  - Ali Al Hamadi: 0.00
+
+---------------------------------------
+
+--- Defensive_Actions_Challenges_Att ---
+Top 3:
+  - João Gomes: 102.00
+  - Trent Alexander-Arnold: 101.00
+  - Alexis Mac Allister: 101.00
+
+Bottom 3:
+  - Alex Palmer: 0.00
+  - Armando Broja: 0.00
+  - Martin Dúbravka: 0.00
+
+---------------------------------------
+
+--- Defensive_Actions_Challenges_Lost ---
+Top 3:
+  - João Gomes: 60.00
+  - Trent Alexander-Arnold: 53.00
+  - Elliot Anderson: 52.00
+
+Bottom 3:
+  - Armando Broja: 0.00
+  - Antonín Kinský: 0.00
+  - Max Aarons: 0.00
+
+---------------------------------------
+
+--- Defensive_Actions_Tackles_Tkl ---
+Top 3:
+  - Idrissa Gana Gueye: 124.00
+  - Daniel Muñoz: 109.00
+  - João Gomes: 105.00
+
+Bottom 3:
+  - Aaron Ramsdale: 0.00
+  - Arijanet Muric: 0.00
+  - Bart Verbruggen: 0.00
+
+---------------------------------------
+
+--- Defensive_Actions_Tackles_TklW ---
+Top 3:
+  - Idrissa Gana Gueye: 74.00
+  - Daniel Muñoz: 70.00
+  - Moisés Caicedo: 63.00
+
+Bottom 3:
+  - Aaron Ramsdale: 0.00
+  - Ali Al Hamadi: 0.00
+  - Arijanet Muric: 0.00
+
+---------------------------------------
+
+--- Expected_xAG ---
+Top 3:
+  - Mohamed Salah: 12.80
+  - Cole Palmer: 9.30
+  - Son Heung-min: 8.20
+
+Bottom 3:
+  - Łukasz Fabiański: 0.00
+  - Aaron Ramsdale: 0.00
+  - Woyo Coulibaly: 0.00
+
+---------------------------------------
+
+--- Expected_xG ---
+Top 3:
+  - Mohamed Salah: 23.90
+  - Erling Haaland: 20.80
+  - Alexander Isak: 19.00
+
+Bottom 3:
+  - Woyo Coulibaly: 0.00
+  - Aaron Ramsdale: 0.00
+  - Łukasz Fabiański: 0.00
+
+---------------------------------------
+
+--- Goal_and_Shot_Creation_GCA_GCA ---
+Top 3:
+  - Mohamed Salah: 26.00
+  - Bukayo Saka: 22.00
+  - Mikkel Damsgaard: 21.00
+
+Bottom 3:
+  - Ben Chilwell: 0.00
+  - Ben Brereton: 0.00
+  - Ayden Heaven: 0.00
+
+---------------------------------------
+
+--- Goal_and_Shot_Creation_GCA_GCA90 ---
+Top 3:
+  - Bukayo Saka: 1.29
+  - Solly March: 1.08
+  - Mikey Moore: 0.97
+
+Bottom 3:
+  - Aaron Cresswell: 0.00
+  - Aaron Ramsdale: 0.00
+  - Łukasz Fabiański: 0.00
+
+---------------------------------------
+
+--- Goal_and_Shot_Creation_SCA_SCA ---
+Top 3:
+  - Cole Palmer: 180.00
+  - Bruno Fernandes: 169.00
+  - Mohamed Salah: 153.00
+
+Bottom 3:
+  - Altay Bayındır: 0.00
+  - Benoît Badiashile: 0.00
+  - Ben Mee: 0.00
+
+---------------------------------------
+
+--- Goal_and_Shot_Creation_SCA_SCA90 ---
+Top 3:
+  - Philip Billing: 7.83
+  - Luis Guilherme: 6.52
+  - Kevin De Bruyne: 6.08
+
+Bottom 3:
+  - Ben Mee: 0.00
+  - Joe Lumley: 0.00
+  - Kosta Nedeljković: 0.00
+
+---------------------------------------
+
+--- Goalkeeping_Penalty_Kicks_SavePct ---
+Top 3:
+  - Caoimhín Kelleher: 100.00
+  - Jordan Pickford: 100.00
+  - Nick Pope: 50.00
+
+Bottom 3:
+  - Alex McCarthy: 0.00
+  - Alex Palmer: 0.00
+  - Bart Verbruggen: 0.00
+
+---------------------------------------
+
+--- Goalkeeping_Performance_CSPct ---
+Top 3:
+  - Hákon Rafn Valdimarsson: 100.00
+  - Daniel Bentley: 100.00
+  - Robin Olsen: 100.00
+
+Bottom 3:
+  - Alex McCarthy: 0.00
+  - Alex Palmer: 0.00
+  - Altay Bayındır: 0.00
+
+---------------------------------------
+
+--- Goalkeeping_Performance_GA90 ---
+Top 3:
+  - Altay Bayındır: 4.00
+  - Danny Ward: 4.00
+  - Christian Walton: 2.67
+
+Bottom 3:
+  - Daniel Bentley: 0.00
+  - Jason Steele: 0.50
+  - Alisson: 0.84
+
+---------------------------------------
+
+--- Goalkeeping_Performance_SavePct ---
+Top 3:
+  - Daniel Bentley: 100.00
+  - Neto: 84.60
+  - Mark Travers: 80.00
+
+Bottom 3:
+  - Altay Bayındır: 33.30
+  - Danny Ward: 40.00
+  - Brandon Austin: 50.00
+
+---------------------------------------
+
+--- Miscellaneous_Stats_Aerial_Duels_Lost ---
+Top 3:
+  - Chris Wood: 123.00
+  - Jørgen Strand Larsen: 96.00
+  - Jean-Philippe Mateta: 95.00
+
+Bottom 3:
+  - Aaron Ramsdale: 0.00
+  - Alisson: 0.00
+  - Alphonse Areola: 0.00
+
+---------------------------------------
+
+--- Miscellaneous_Stats_Aerial_Duels_Won ---
+Top 3:
+  - Dan Burn: 127.00
+  - Virgil van Dijk: 110.00
+  - Nathan Collins: 110.00
+
+Bottom 3:
+  - Welington: 0.00
+  - Antony: 0.00
+  - Marco Asensio: 0.00
+
+---------------------------------------
+
+--- Miscellaneous_Stats_Aerial_Duels_WonPct ---
+Top 3:
+  - Albert Grønbaek: 100.00
+  - André Onana: 100.00
+  - Luke Shaw: 100.00
+
+Bottom 3:
+  - Antony: 0.00
+  - Tyrique George: 0.00
+  - Andrés García: 0.00
+
+---------------------------------------
+
+--- Miscellaneous_Stats_Performance_Crs ---
+Top 3:
+  - Pedro Porro: 191.00
+  - Bryan Mbeumo: 177.00
+  - Bruno Fernandes: 172.00
+
+Bottom 3:
+  - Łukasz Fabiański: 0.00
+  - Aaron Ramsdale: 0.00
+  - Ali Al Hamadi: 0.00
+
+---------------------------------------
+
+--- Miscellaneous_Stats_Performance_Fld ---
+Top 3:
+  - Bruno Guimarães: 99.00
+  - Matheus Cunha: 69.00
+  - John McGinn: 67.00
+
+Bottom 3:
+  - Altay Bayındır: 0.00
+  - Alphonse Areola: 0.00
+  - Tyrique George: 0.00
+
+---------------------------------------
+
+--- Miscellaneous_Stats_Performance_Fls ---
+Top 3:
+  - João Gomes: 67.00
+  - Liam Delap: 67.00
+  - Antoine Semenyo: 66.00
+
+Bottom 3:
+  - Alisson: 0.00
+  - Alphonse Areola: 0.00
+  - Altay Bayındır: 0.00
+
+---------------------------------------
+
+--- Miscellaneous_Stats_Performance_Off ---
+Top 3:
+  - Dominic Calvert-Lewin: 27.00
+  - Chris Wood: 26.00
+  - Jamie Vardy: 25.00
+
+Bottom 3:
+  - Aaron Cresswell: 0.00
+  - Aaron Ramsdale: 0.00
+  - Alisson: 0.00
+
+---------------------------------------
+
+--- Miscellaneous_Stats_Performance_Recov ---
+Top 3:
+  - Moisés Caicedo: 197.00
+  - Bruno Fernandes: 192.00
+  - Elliot Anderson: 186.00
+
+Bottom 3:
+  - Altay Bayındır: 0.00
+  - Brandon Austin: 1.00
+  - Daniel Bentley: 1.00
+
+---------------------------------------
+
+--- Passing_Expected_1_3 ---
+Top 3:
+  - Virgil van Dijk: 265.00
+  - Joško Gvardiol: 237.00
+  - Youri Tielemans: 228.00
+
+Bottom 3:
+  - William Osula: 0.00
+  - Martin Dúbravka: 0.00
+  - Brandon Austin: 0.00
+
+---------------------------------------
+
+--- Passing_Expected_CrsPA ---
+Top 3:
+  - Antonee Robinson: 28.00
+  - Pedro Porro: 26.00
+  - Milos Kerkez: 23.00
+
+Bottom 3:
+  - Łukasz Fabiański: 0.00
+  - Aaron Ramsdale: 0.00
+  - Ali Al Hamadi: 0.00
+
+---------------------------------------
+
+--- Passing_Expected_KP ---
+Top 3:
+  - Bruno Fernandes: 84.00
+  - Mohamed Salah: 80.00
+  - Cole Palmer: 78.00
+
+Bottom 3:
+  - Aaron Ramsdale: 0.00
+  - Alphonse Areola: 0.00
+  - Altay Bayındır: 0.00
+
+---------------------------------------
+
+--- Passing_Expected_PPA ---
+Top 3:
+  - Mohamed Salah: 82.00
+  - Martin Ødegaard: 81.00
+  - Alex Iwobi: 78.00
+
+Bottom 3:
+  - Alisson: 0.00
+  - Ali Al Hamadi: 0.00
+  - Altay Bayındır: 0.00
+
+---------------------------------------
+
+--- Passing_Expected_PrgP ---
+Top 3:
+  - Bruno Fernandes: 281.00
+  - Joško Gvardiol: 251.00
+  - Bruno Guimarães: 241.00
+
+Bottom 3:
+  - Aaron Ramsdale: 0.00
+  - Alisson: 0.00
+  - Altay Bayındır: 0.00
+
+---------------------------------------
+
+--- Passing_Long_CmpPct ---
+Top 3:
+  - Woyo Coulibaly: 100.00
+  - Tyrell Malacia: 100.00
+  - Andy Irving: 100.00
+
+Bottom 3:
+  - Tyrique George: 0.00
+  - Ross Stewart: 0.00
+  - Evan Ferguson: 0.00
+
+---------------------------------------
+
+--- Passing_Medium_CmpPct ---
+Top 3:
+  - Brandon Austin: 100.00
+  - Danny Ward: 100.00
+  - Daniel Bentley: 100.00
+
+Bottom 3:
+  - Beto: 50.00
+  - Roman Dixon: 50.00
+  - Albert Grønbaek: 50.00
+
+---------------------------------------
+
+--- Passing_Short_CmpPct ---
+Top 3:
+  - Łukasz Fabiański: 100.00
+  - Altay Bayındır: 100.00
+  - Antonín Kinský: 100.00
+
+Bottom 3:
+  - William Osula: 61.50
+  - Paul Onuachu: 62.90
+  - George Hirst: 66.70
+
+---------------------------------------
+
+--- Passing_Total_Cmp ---
+Top 3:
+  - Virgil van Dijk: 2446.00
+  - Joško Gvardiol: 2321.00
+  - William Saliba: 2319.00
+
+Bottom 3:
+  - Roman Dixon: 11.00
+  - William Osula: 11.00
+  - Albert Grønbaek: 13.00
+
+---------------------------------------
+
+--- Passing_Total_CmpPct ---
+Top 3:
+  - William Saliba: 94.20
+  - Nathan Aké: 93.90
+  - Manuel Akanji: 93.90
+
+Bottom 3:
+  - Matz Sels: 50.50
+  - Altay Bayındır: 52.50
+  - George Hirst: 55.80
+
+---------------------------------------
+
+--- Passing_Total_TotDist ---
+Top 3:
+  - Virgil van Dijk: 44780.00
+  - William Saliba: 39915.00
+  - Levi Colwill: 39487.00
+
+Bottom 3:
+  - William Osula: 126.00
+  - Albert Grønbaek: 135.00
+  - Roman Dixon: 205.00
+
+---------------------------------------
+
+--- Per_90_Minutes_Ast ---
+Top 3:
+  - Tyrique George: 0.87
+  - Danny Ings: 0.63
+  - Bukayo Saka: 0.58
+
+Bottom 3:
+  - Antony: 0.00
+  - Massimo Luongo: 0.00
+  - Mason Mount: 0.00
+
+---------------------------------------
+
+--- Per_90_Minutes_Gls ---
+Top 3:
+  - Jáder Durán: 0.99
+  - Donyell Malen: 0.92
+  - James Mcatee: 0.89
+
+Bottom 3:
+  - Tyrone Mings: 0.00
+  - Ben Chilwell: 0.00
+  - Roméo Lavia: 0.00
+
+---------------------------------------
+
+--- Per_90_Minutes_xG ---
+Top 3:
+  - James Mcatee: 0.83
+  - Richarlison: 0.78
+  - Erling Haaland: 0.76
+
+Bottom 3:
+  - Aaron Ramsdale: 0.00
+  - Łukasz Fabiański: 0.00
+  - Wataru Endo: 0.00
+
+---------------------------------------
+
+--- Per_90_Minutes_xGA ---
+Top 3:
+  - Tyrique George: 0.63
+  - Mykhailo Mudryk: 0.58
+  - Luis Sinisterra: 0.54
+
+Bottom 3:
+  - Łukasz Fabiański: 0.00
+  - Alphonse Areola: 0.00
+  - Altay Bayındır: 0.00
+
+---------------------------------------
+
+--- Performance_Ast ---
+Top 3:
+  - Mohamed Salah: 18.00
+  - Jacob Murphy: 11.00
+  - Antonee Robinson: 10.00
+
+Bottom 3:
+  - Aaron Cresswell: 0.00
+  - Aaron Ramsdale: 0.00
+  - Vladimír Coufal: 0.00
+
+---------------------------------------
+
+--- Performance_CrdR ---
+Top 3:
+  - Myles Lewis-Skelly: 2.00
+  - Bruno Fernandes: 2.00
+  - Jack Stephens: 2.00
+
+Bottom 3:
+  - Aaron Cresswell: 0.00
+  - Vladimír Coufal: 0.00
+  - William Smallbone: 0.00
+
+---------------------------------------
+
+--- Performance_CrdY ---
+Top 3:
+  - Saša Lukić: 12.00
+  - Will Hughes: 11.00
+  - Sam Morsy: 10.00
+
+Bottom 3:
+  - Wataru Endo: 0.00
+  - Antonín Kinský: 0.00
+  - Antony: 0.00
+
+---------------------------------------
+
+--- Performance_Gls ---
+Top 3:
+  - Mohamed Salah: 28.00
+  - Alexander Isak: 22.00
+  - Erling Haaland: 21.00
+
+Bottom 3:
+  - Yerson Mosquera: 0.00
+  - Valentino Livramento: 0.00
+  - Tyrone Mings: 0.00
+
+---------------------------------------
+
+--- Possession_Carries_1_3 ---
+Top 3:
+  - Alex Iwobi: 102.00
+  - Joško Gvardiol: 92.00
+  - Matheus Cunha: 88.00
+
+Bottom 3:
+  - Willy Boly: 0.00
+  - Aaron Ramsdale: 0.00
+  - Alex Palmer: 0.00
+
+---------------------------------------
+
+--- Possession_Carries_CPA ---
+Top 3:
+  - Mohamed Salah: 113.00
+  - Jeremy Doku: 90.00
+  - Noni Madueke: 80.00
+
+Bottom 3:
+  - Aaron Cresswell: 0.00
+  - Yves Bissouma: 0.00
+  - Łukasz Fabiański: 0.00
+
+---------------------------------------
+
+--- Possession_Carries_Carries ---
+Top 3:
+  - Joško Gvardiol: 1886.00
+  - Virgil van Dijk: 1682.00
+  - William Saliba: 1674.00
+
+Bottom 3:
+  - Roman Dixon: 16.00
+  - Harry Toffolo: 17.00
+  - Albert Grønbaek: 18.00
+
+---------------------------------------
+
+--- Possession_Carries_Dis ---
+Top 3:
+  - Mohammed Kudus: 88.00
+  - Bruno Guimarães: 73.00
+  - Antoine Semenyo: 72.00
+
+Bottom 3:
+  - Aaron Cresswell: 0.00
+  - Aaron Ramsdale: 0.00
+  - Welington: 0.00
+
+---------------------------------------
+
+--- Possession_Carries_Mis ---
+Top 3:
+  - Mohamed Salah: 105.00
+  - Morgan Rogers: 104.00
+  - Liam Delap: 99.00
+
+Bottom 3:
+  - Altay Bayındır: 0.00
+  - Alphonse Areola: 0.00
+  - Antonín Kinský: 0.00
+
+---------------------------------------
+
+--- Possession_Carries_PrgDist ---
+Top 3:
+  - Jan Paul van Hecke: 6643.00
+  - Joško Gvardiol: 5715.00
+  - Rúben Dias: 5295.00
+
+Bottom 3:
+  - Albert Grønbaek: 15.00
+  - Harry Toffolo: 23.00
+  - Massimo Luongo: 25.00
+
+---------------------------------------
+
+--- Possession_Carries_ProgC ---
+Top 3:
+  - Jeremy Doku: 189.00
+  - Mohamed Salah: 142.00
+  - Kaoru Mitoma: 138.00
+
+Bottom 3:
+  - Aaron Ramsdale: 0.00
+  - Alisson: 0.00
+  - Armel Bella Kotchap: 0.00
+
+---------------------------------------
+
+--- Possession_Receiving_PrgR ---
+Top 3:
+  - Mohamed Salah: 425.00
+  - Bryan Mbeumo: 306.00
+  - Kaoru Mitoma: 277.00
+
+Bottom 3:
+  - Antonín Kinský: 0.00
+  - Martin Dúbravka: 0.00
+  - Armel Bella Kotchap: 0.00
+
+---------------------------------------
+
+--- Possession_Receiving_Rec ---
+Top 3:
+  - Joško Gvardiol: 2132.00
+  - Virgil van Dijk: 2063.00
+  - William Saliba: 2055.00
+
+Bottom 3:
+  - Roman Dixon: 13.00
+  - Daniel Bentley: 14.00
+  - Brandon Austin: 16.00
+
+---------------------------------------
+
+--- Possession_Take_Ons_Att ---
+Top 3:
+  - Mohammed Kudus: 188.00
+  - Jeremy Doku: 185.00
+  - Morgan Rogers: 152.00
+
+Bottom 3:
+  - Aaron Ramsdale: 0.00
+  - Willy Boly: 0.00
+  - Altay Bayındır: 0.00
+
+---------------------------------------
+
+--- Possession_Take_Ons_SuccPct ---
+Top 3:
+  - Łukasz Fabiański: 100.00
+  - Aaron Cresswell: 100.00
+  - Tyler Fredricson: 100.00
+
+Bottom 3:
+  - Armel Bella Kotchap: 0.00
+  - Ben White: 0.00
+  - Benoît Badiashile: 0.00
+
+---------------------------------------
+
+--- Possession_Take_Ons_TkldPct ---
+Top 3:
+  - Abdukodir Khusanov: 100.00
+  - Woyo Coulibaly: 100.00
+  - Michael Keane: 100.00
+
+Bottom 3:
+  - Aaron Cresswell: 0.00
+  - Łukasz Fabiański: 0.00
+  - Andy Irving: 0.00
+
+---------------------------------------
+
+--- Possession_Touches_Att_3rd ---
+Top 3:
+  - Mohamed Salah: 993.00
+  - Bruno Fernandes: 888.00
+  - Bryan Mbeumo: 876.00
+
+Bottom 3:
+  - Arijanet Muric: 0.00
+  - Antonín Kinský: 0.00
+  - Bart Verbruggen: 0.00
+
+---------------------------------------
+
+--- Possession_Touches_Att_Pen ---
+Top 3:
+  - Mohamed Salah: 320.00
+  - Antoine Semenyo: 176.00
+  - Alexander Isak: 175.00
+
+Bottom 3:
+  - Antonín Kinský: 0.00
+  - Arijanet Muric: 0.00
+  - Bart Verbruggen: 0.00
+
+---------------------------------------
+
+--- Possession_Touches_Def_3rd ---
+Top 3:
+  - Mark Flekken: 1615.00
+  - Jordan Pickford: 1494.00
+  - Bernd Leno: 1353.00
+
+Bottom 3:
+  - William Osula: 2.00
+  - Odsonne Édouard: 4.00
+  - Callum Wilson: 5.00
+
+---------------------------------------
+
+--- Possession_Touches_Def_Pen ---
+Top 3:
+  - Mark Flekken: 1305.00
+  - Bernd Leno: 1096.00
+  - Emiliano Martínez: 1015.00
+
+Bottom 3:
+  - Emi Buendía: 0.00
+  - Tyrique George: 1.00
+  - Odsonne Édouard: 1.00
+
+---------------------------------------
+
+--- Possession_Touches_Mid_3rd ---
+Top 3:
+  - Virgil van Dijk: 1664.00
+  - William Saliba: 1519.00
+  - Joško Gvardiol: 1474.00
+
+Bottom 3:
+  - Brandon Austin: 0.00
+  - Daniel Bentley: 0.00
+  - Danny Ward: 0.00
+
+---------------------------------------
+
+--- Possession_Touches_Touches ---
+Top 3:
+  - Virgil van Dijk: 3010.00
+  - Joško Gvardiol: 2903.00
+  - William Saliba: 2715.00
+
+Bottom 3:
+  - Daniel Bentley: 35.00
+  - Brandon Austin: 36.00
+  - Roman Dixon: 36.00
+
+---------------------------------------
+
+--- Progression_PrgC ---
+Top 3:
+  - Jeremy Doku: 189.00
+  - Mohamed Salah: 142.00
+  - Kaoru Mitoma: 138.00
+
+Bottom 3:
+  - Aaron Ramsdale: 0.00
+  - Alisson: 0.00
+  - Armel Bella Kotchap: 0.00
+
+---------------------------------------
+
+--- Progression_PrgP ---
+Top 3:
+  - Bruno Fernandes: 281.00
+  - Joško Gvardiol: 251.00
+  - Bruno Guimarães: 241.00
+
+Bottom 3:
+  - Aaron Ramsdale: 0.00
+  - Alisson: 0.00
+  - Altay Bayındır: 0.00
+
+---------------------------------------
+
+--- Progression_PrgR ---
+Top 3:
+  - Mohamed Salah: 425.00
+  - Bryan Mbeumo: 306.00
+  - Kaoru Mitoma: 277.00
+
+Bottom 3:
+  - Antonín Kinský: 0.00
+  - Martin Dúbravka: 0.00
+  - Armel Bella Kotchap: 0.00
+
+---------------------------------------
+
+--- Shooting_Standard_Dist ---
+Top 3:
+  - Ibrahim Sangaré: 32.00
+  - Emmanuel Agbadou: 31.80
+  - Ryan Fraser: 31.60
+
+Bottom 3:
+  - Kieran Tierney: 2.60
+  - Harry Clarke: 4.50
+  - John Stones: 5.10
+
+---------------------------------------
+
+--- Shooting_Standard_G_Sh ---
+Top 3:
+  - John Stones: 1.00
+  - Axel Disasi: 0.50
+  - Myles Lewis-Skelly: 0.50
+
+Bottom 3:
+  - Aaron Cresswell: 0.00
+  - Álex Moreno: 0.00
+  - Andrew Robertson: 0.00
+
+---------------------------------------
+
+--- Shooting_Standard_SoTPct ---
+Top 3:
+  - Adam Webster: 100.00
+  - Archie Gray: 100.00
+  - Ryan Fraser: 100.00
+
+Bottom 3:
+  - Aaron Cresswell: 0.00
+  - Álex Moreno: 0.00
+  - Abdukodir Khusanov: 0.00
+
+---------------------------------------
+
+--- Shooting_Standard_SoT_90 ---
+Top 3:
+  - Julio Enciso: 3.37
+  - Donyell Malen: 2.76
+  - Luis Sinisterra: 2.29
+
+Bottom 3:
+  - Aaron Cresswell: 0.00
+  - Aaron Ramsdale: 0.00
+  - Łukasz Fabiański: 0.00
+
+---------------------------------------
+
